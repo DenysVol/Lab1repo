@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-README
-=======
-# Lab1repo
->>>>>>> refs/remotes/origin/master
+don't read me
